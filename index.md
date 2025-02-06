@@ -4,7 +4,7 @@ layout: default
 
 ### Graduation
 
-<img src="githubgraduation.jpg" width="50" height="50" alt="Graduation">
+<img src="githubgraduation.jpg" width="100" height="100" alt="Graduation">
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
