@@ -4,7 +4,7 @@ layout: default
 
 ### Small image
 
-![Octocat](githubgraduation.jpg)
+<img src="githubgraduation.jpg" width="50" height="50" alt="Graduation">
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
