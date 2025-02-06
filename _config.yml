@@ -1,5 +1,5 @@
 title: Ryan's Portfolio
 description: View all my finished and active projects. 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
