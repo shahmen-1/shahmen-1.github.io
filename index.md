@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### Small image
+
 ![Octocat](githubgraduation.jpg)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
