@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Small image
+### Graduation
 
 <img src="githubgraduation.jpg" width="50" height="50" alt="Graduation">
 
