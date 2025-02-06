@@ -2,7 +2,7 @@
 layout: default
 ---
 
-(![Octocat](bg.jpg))
+![Octocat](bg.jpg)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
